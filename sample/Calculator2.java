@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator2 {
+public class Calculator {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Enter an expression of the form 2 * 4");
