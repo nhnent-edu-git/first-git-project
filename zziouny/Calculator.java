@@ -18,7 +18,7 @@ public class Calculator {
                 break;
 
             case "/":
-                System.out.println((a * b));
+                System.out.println((a / b));
                 break;
 
             case "*":
